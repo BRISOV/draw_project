@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Страница — 1" id="A2DpeahgJCqLdih8L4fk">
-    <mxGraphModel dx="1434" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
+    <mxGraphModel dx="819" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,24 +13,26 @@
         <mxCell id="WLeCM0CuX6cKg9ma3z7--2" value="Python" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="184" y="202.5" width="65" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="WLeCM0CuX6cKg9ma3z7--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WLeCM0CuX6cKg9ma3z7--8" target="WLeCM0CuX6cKg9ma3z7--15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WLeCM0CuX6cKg9ma3z7--8" value="json&lt;div&gt;сырые данные&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="282" y="195" width="108" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WLeCM0CuX6cKg9ma3z7--12" value="AirFlow&lt;div&gt;получение актуальной погоды раз в день&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="100" y="40" width="250" height="40" as="geometry" />
+          <mxGeometry x="60" y="20" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WLeCM0CuX6cKg9ma3z7--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WLeCM0CuX6cKg9ma3z7--2" target="WLeCM0CuX6cKg9ma3z7--8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WLeCM0CuX6cKg9ma3z7--15" value="PostgreSQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="195" width="100" height="40" as="geometry" />
+          <mxGeometry x="490" y="20" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WLeCM0CuX6cKg9ma3z7--18" value="Справочники НСИ?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="100" width="120" height="230" as="geometry" />
+          <mxGeometry x="480" y="100" width="120" height="230" as="geometry" />
         </mxCell>
+        <UserObject label="https://habr.com/ru/companies/navicon/articles/260927/" id="WLeCM0CuX6cKg9ma3z7--20">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="630" y="200" width="330" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
